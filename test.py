@@ -1,5 +1,5 @@
-import streamlit
-import 
+import streamlit as sk
+import scikit-learn as st
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
